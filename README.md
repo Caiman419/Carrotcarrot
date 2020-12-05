@@ -14,3 +14,4 @@
 
 ---
 ## 유투브 영상 링크
+https://youtu.be/JuCXrMKks2A
