@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="mainwindow">
+    <file>bad_score.png</file>
+    <file>good_score.png</file>
+    <file>soso_scroe.png</file>
+    <file>wait_score.png</file>
+    <file>start_before.png</file>
+    <file>start_button.png</file>
+    <file>bunny_icon.png</file>
+    <file>bunny.png</file>
+    <file>explain.png</file>
+    <file>game_exit.png</file>
+    <file>game_explain.png</file>
+    <file>game_logo.png</file>
+    <file>game_start.png</file>
+    <file>Main_window_background.png</file>
+  </qresource>
+</RCC>
